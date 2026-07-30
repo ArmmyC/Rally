@@ -7,9 +7,7 @@
   <p>A bilingual directory for internships, hackathons, competitions, and student programmes in Thailand.</p>
 
   <p>
-    <a href="https://rally.kamolpop.dev/"><strong>Visit Rally</strong></a> ·
-    <a href="https://rally.kamolpop.dev/en">Browse opportunities</a> ·
-    <a href="https://rally.kamolpop.dev/en/guides">Read student guides</a>
+    <a href="https://rally.kamolpop.dev/"><strong>Visit Rally</strong></a>
   </p>
 
   <p>
@@ -22,7 +20,7 @@
 Rally helps students find opportunities they might otherwise miss. It brings useful listings into one calm, searchable place and sends every student back to the official source for the latest details.
 
 > [!TIP]
-> Start with [all opportunities](https://rally.kamolpop.dev/en), filter by type or location, and open the official source before applying or registering.
+> Start at [rally.kamolpop.dev](https://rally.kamolpop.dev/), filter by type or location, and open the official source before applying or registering.
 
 ## What you can do
 
@@ -55,20 +53,13 @@ Rally reviews public evidence and links each listing to its official source. It 
 > [!IMPORTANT]
 > Rally is a discovery directory, not an application service. Availability can change, so always confirm the latest information on the official source before applying.
 
-## Explore
+## Explore Rally
 
-<table>
-  <tr>
-    <td><a href="https://rally.kamolpop.dev/en"><strong>All opportunities</strong></a><br /><sub>Browse the full directory</sub></td>
-    <td><a href="https://rally.kamolpop.dev/en/internships"><strong>Internships</strong></a><br /><sub>Find student work experience</sub></td>
-    <td><a href="https://rally.kamolpop.dev/en/internships/it"><strong>IT internships</strong></a><br /><sub>Focus on technology roles</sub></td>
-  </tr>
-  <tr>
-    <td><a href="https://rally.kamolpop.dev/en/hackathons"><strong>Hackathons</strong></a><br /><sub>Build, compete, and learn</sub></td>
-    <td><a href="https://rally.kamolpop.dev/en/ambassador-programs"><strong>Ambassador programmes</strong></a><br /><sub>Join student communities</sub></td>
-    <td><a href="https://rally.kamolpop.dev/th"><strong>ภาษาไทย</strong></a><br /><sub>เปิดดู Rally ภาษาไทย</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://rally.kamolpop.dev/"><strong>Open the Rally directory →</strong></a>
+  <br />
+  <sub>Internships · IT opportunities · hackathons · competitions · ambassador programmes · student guides</sub>
+</div>
 
 ## About this repository
 
