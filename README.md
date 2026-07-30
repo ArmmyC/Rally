@@ -1,60 +1,77 @@
 <div align="center">
-  <img src="https://rally.kamolpop.dev/icon.svg" alt="Rally logo" width="80" />
+  <img src="https://rally.kamolpop.dev/icon.svg" alt="Rally logo" width="96" />
 
   <h1>Rally</h1>
 
-  <p>Internships, hackathons, and student opportunities in Thailand.</p>
+  <p><strong>Find your next move.</strong></p>
+  <p>A bilingual directory for internships, hackathons, competitions, and student programmes in Thailand.</p>
 
   <p>
-    <a href="https://rally.kamolpop.dev/">Visit Rally</a> ·
+    <a href="https://rally.kamolpop.dev/"><strong>Visit Rally</strong></a> ·
     <a href="https://rally.kamolpop.dev/en">Browse opportunities</a> ·
-    <a href="https://rally.kamolpop.dev/en/guides">Student guides</a>
+    <a href="https://rally.kamolpop.dev/en/guides">Read student guides</a>
+  </p>
+
+  <p>
+    <a href="https://rally.kamolpop.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Frally.kamolpop.dev&label=live%20website&style=flat-square" alt="Live website" /></a>
+    <img src="https://img.shields.io/badge/Thai%20%2B%20English-bilingual-3559e8?style=flat-square" alt="Thai and English" />
+    <img src="https://img.shields.io/badge/built%20for-students%20in%20Thailand-0f766e?style=flat-square" alt="Built for students in Thailand" />
   </p>
 </div>
 
-Rally is a bilingual directory that helps students in Thailand find useful opportunities in one clear place. It brings together internships, hackathons, competitions, and ambassador programmes, then links each listing back to its official source.
+Rally helps students find opportunities they might otherwise miss. It brings useful listings into one calm, searchable place and sends every student back to the official source for the latest details.
 
-> [!NOTE]
-> Rally is a discovery directory, not an application service. Always review the official source before applying or registering because availability and requirements can change.
+> [!TIP]
+> Start with [all opportunities](https://rally.kamolpop.dev/en), filter by type or location, and open the official source before applying or registering.
 
-## What Rally gives students
+## What you can do
 
-- A focused directory for internships, hackathons, competitions, and ambassador programmes
-- English and Thai titles, descriptions, filters, and detail pages
-- Search by opportunity, organizer, field, and location
-- Clear status labels for open opportunities, future openings, watchlists, and past cycles
-- Official source and application links for checking the latest information
-- Local saved opportunities without requiring an account
-- Email alerts for newly added public opportunities through optional double opt-in
-- Practical bilingual guides for finding internships and preparing applications or hackathons
+<table>
+  <tr>
+    <td width="50%"><strong>Discover</strong><br />Search internships, hackathons, competitions, and ambassador programmes.</td>
+    <td width="50%"><strong>Scan quickly</strong><br />Use clear status, type, location, deadline, and work-format information.</td>
+  </tr>
+  <tr>
+    <td><strong>Save locally</strong><br />Keep opportunities for later without creating an account.</td>
+    <td><strong>Stay informed</strong><br />Opt in to bilingual email alerts for newly added public opportunities.</td>
+  </tr>
+</table>
 
-## How listings are curated
+Rally is available in English and Thai, with localized detail pages and practical guides for students preparing applications or hackathons.
 
-Rally uses a source-first approach. Opportunity details are reviewed against public evidence, and listings are kept separate from private or uncertain records.
+## Opportunity status
 
-Each public listing is assigned one of these statuses:
-
-| Status | Meaning |
+| Status | What it means |
 | --- | --- |
-| **Open now** | Applications or registration are currently supported by evidence. |
-| **Opening later** | An official future opening or named cycle is confirmed. |
-| **Watchlist** | The programme recurs, but its next intake is not announced. |
-| **Past cycle** | A useful historical opportunity retained for reference. |
+| <code>Open now</code> | Current applications or registration are supported by evidence. |
+| <code>Opening later</code> | An official future opening or named cycle is confirmed. |
+| <code>Watchlist</code> | The programme recurs, but its next intake is not announced. |
+| <code>Past cycle</code> | A useful historical opportunity retained for reference. |
 
-Rally does not invent deadlines, compensation, eligibility, location, or application routes. When a fact is unavailable, it is shown as unknown or left for the official source to confirm.
+## Source-first by design
 
-## Explore Rally
+Rally reviews public evidence and links each listing to its official source. It does not invent deadlines, compensation, eligibility, locations, or application routes. If a detail is unknown, Rally leaves it unknown so students can verify it from the organizer.
 
-- [All opportunities](https://rally.kamolpop.dev/en)
-- [Internships](https://rally.kamolpop.dev/en/internships)
-- [IT internships](https://rally.kamolpop.dev/en/internships/it)
-- [Hackathons and competitions](https://rally.kamolpop.dev/en/hackathons)
-- [Ambassador programmes](https://rally.kamolpop.dev/en/ambassador-programs)
-- [Student guides](https://rally.kamolpop.dev/en/guides)
-- [ภาษาไทย](https://rally.kamolpop.dev/th)
+> [!IMPORTANT]
+> Rally is a discovery directory, not an application service. Availability can change, so always confirm the latest information on the official source before applying.
+
+## Explore
+
+<table>
+  <tr>
+    <td><a href="https://rally.kamolpop.dev/en"><strong>All opportunities</strong></a><br /><sub>Browse the full directory</sub></td>
+    <td><a href="https://rally.kamolpop.dev/en/internships"><strong>Internships</strong></a><br /><sub>Find student work experience</sub></td>
+    <td><a href="https://rally.kamolpop.dev/en/internships/it"><strong>IT internships</strong></a><br /><sub>Focus on technology roles</sub></td>
+  </tr>
+  <tr>
+    <td><a href="https://rally.kamolpop.dev/en/hackathons"><strong>Hackathons</strong></a><br /><sub>Build, compete, and learn</sub></td>
+    <td><a href="https://rally.kamolpop.dev/en/ambassador-programs"><strong>Ambassador programmes</strong></a><br /><sub>Join student communities</sub></td>
+    <td><a href="https://rally.kamolpop.dev/th"><strong>ภาษาไทย</strong></a><br /><sub>เปิดดู Rally ภาษาไทย</sub></td>
+  </tr>
+</table>
 
 ## About this repository
 
-This public repository is intentionally a lightweight project page for Rally. The production application and its private data-management workflows are maintained separately.
+This public repository is Rally’s project page. The production application and private data-management workflows are maintained separately.
 
-The project is built for students who want a simpler way to discover opportunities they might otherwise miss.
+Built for students in Thailand who want a simpler way to discover what is happening next.
