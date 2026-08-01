@@ -1,6 +1,6 @@
 # Contributing to Rally
 
-Thank you for helping students find better opportunities. This repository is Rally's public community home; the application and reviewed data are maintained in [Rally-Source](https://github.com/ArmmyC/Rally-Source).
+Thank you for helping students find better opportunities. This repository is Rally's public community home; the application and reviewed data are maintained in a private source repository.
 
 ## Ways to help
 

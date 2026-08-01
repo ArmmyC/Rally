@@ -1,7 +1,9 @@
 # Security policy
 
-Please do not report a security vulnerability in a public issue.
+Please do not report security vulnerabilities in public issues.
 
-Use GitHub's private vulnerability reporting for the [Rally repository](https://github.com/ArmmyC/Rally) when it is available. If private reporting is not enabled, contact the repository owner privately through their GitHub profile and include only the information needed to reproduce the problem.
+If GitHub private vulnerability reporting is enabled for Rally, use the "Report a vulnerability" option in the repository's Security tab.
 
-When reporting, describe the affected route or file, the impact, reproduction steps, and any suggested mitigation. Do not include credentials, tokens, personal data, or live exploit code in public comments.
+If private reporting is unavailable, contact [@ArmmyC](https://github.com/ArmmyC) privately through GitHub. Include only the information needed to reproduce the issue.
+
+When reporting, describe the affected route or file, the impact, reproduction steps, and any suggested mitigation. Do not include credentials, tokens, personal data, or live exploit code.

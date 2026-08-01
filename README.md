@@ -19,7 +19,7 @@
   <p>
     <a href="https://rally.kamolpop.dev/"><img src="https://img.shields.io/website?url=https%3A%2F%2Frally.kamolpop.dev&label=live%20website&style=flat-square" alt="Live website" /></a>
     <img src="https://img.shields.io/badge/Thai%20%2B%20English-bilingual-1d5fd1?style=flat-square" alt="Thai and English" />
-    <a href="https://github.com/ArmmyC/Rally-Source"><img src="https://img.shields.io/badge/Next.js-App%20Router-20242c?style=flat-square" alt="Next.js App Router" /></a>
+    <img src="https://img.shields.io/badge/Next.js-App%20Router-20242c?style=flat-square" alt="Next.js App Router" />
   </p>
 </div>
 
@@ -74,14 +74,13 @@ For a website problem, use the [website problem form](https://github.com/ArmmyC/
 
 ## Project repositories
 
-This public repository is Rally's project and community home. The application code, reviewed dataset, and operational workflows are maintained separately in [Rally-Source](https://github.com/ArmmyC/Rally-Source).
+This public repository is Rally's project and community home. The application implementation, reviewed dataset, and operational workflows are maintained separately in a private source repository.
 
-Use this repository for project context, public feedback, and documentation updates. Use the source repository for application implementation, data validation, and deployment changes.
+Use this repository for project context, public feedback, and documentation updates. The private source repository is used for application implementation, data validation, and deployment changes.
 
 ## Resources
 
 - [Rally live directory](https://rally.kamolpop.dev/)
-- [Rally-Source](https://github.com/ArmmyC/Rally-Source)
 - [Sitemap](https://rally.kamolpop.dev/sitemap.xml)
 - [Robots](https://rally.kamolpop.dev/robots.txt)
 - [llms.txt](https://rally.kamolpop.dev/llms.txt)
