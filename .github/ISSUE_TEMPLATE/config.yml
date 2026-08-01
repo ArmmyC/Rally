@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Browse Rally
+    url: https://rally.kamolpop.dev/
+    about: Explore the live directory and verify details from official sources.
+  - name: Application source
+    url: https://github.com/ArmmyC/Rally-Source
+    about: Read the technical repository and its contribution guidance.
