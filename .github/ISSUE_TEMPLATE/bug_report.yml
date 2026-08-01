@@ -1,0 +1,49 @@
+name: Website problem
+description: Report a reproducible problem in the Rally website.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Rally. Please avoid posting personal data, credentials, or private webhook details.
+  - type: input
+    id: page
+    attributes:
+      label: Page or route
+      description: Which URL or route shows the problem?
+      placeholder: https://rally.kamolpop.dev/en
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly and include any visible error message.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Select ...
+        3. Notice ...
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include browser, device, and screen size when relevant.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked that this issue has not already been reported.
+          required: true
+        - label: I removed secrets and personal information from this report.
+          required: true

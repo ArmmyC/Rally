@@ -1,0 +1,56 @@
+name: Listing or organizer correction
+description: Report an incorrect opportunity detail, organizer, source, or logo.
+title: "[Data]: "
+labels:
+  - data
+  - correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Rally publishes reviewed, source-linked data. Please provide the official page that supports the correction.
+  - type: input
+    id: listing
+    attributes:
+      label: Rally listing
+      description: Link the Rally page, or provide the exact listing title if the page is hard to reach.
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: Correction type
+      options:
+        - Incorrect official link
+        - Incorrect logo or organizer
+        - Wrong opportunity type
+        - Outdated deadline or status
+        - Duplicate listing
+        - Missing information
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: official_source
+    attributes:
+      label: Official source
+      description: Link to the organizer, university, company, or programme page.
+      placeholder: https://example.org/opportunity
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What should change?
+      description: Explain the correction and include the relevant Thai or English wording when useful.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I checked the official source recently.
+          required: true
+        - label: I removed secrets and personal information from this report.
+          required: true
