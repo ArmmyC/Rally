@@ -9,6 +9,10 @@
   <p>
     <a href="https://rally.kamolpop.dev/"><strong>Live site</strong></a>
     &middot;
+    <a href="https://rally.kamolpop.dev/en/about">About Rally</a>
+    &middot;
+    <a href="https://rally.kamolpop.dev/th/about">รู้จัก Rally</a>
+    &middot;
     <a href="#overview">Overview</a>
     &middot;
     <a href="#report-a-correction">Report a correction</a>
@@ -27,6 +31,18 @@ Rally brings useful student opportunities into one calm, searchable place. Brows
 
 > [!IMPORTANT]
 > Rally is a discovery directory, not an application service. Deadlines, eligibility, and availability can change, so confirm the latest details on the official source before applying or registering.
+
+## About Rally
+
+Rally is a bilingual student-opportunity directory for Thailand. It helps students discover internships, hackathons, competitions, ambassador programmes, study-abroad scholarships, and student guides through official sources. Rally is a discovery directory, not an application service.
+
+Read the canonical [About Rally page in English](https://rally.kamolpop.dev/en/about) or [เกี่ยวกับ Rally ภาษาไทย](https://rally.kamolpop.dev/th/about).
+
+Rally is built by **Arm / Kamolpop Vitayarat**, a Computer Engineering student at **King Mongkut's University of Technology Thonburi (KMUTT)**.
+
+- [Arm's project hub](https://hub.kamolpop.dev/)
+- [Arm on LinkedIn](https://www.linkedin.com/in/kamolpopvitayarat/?skipRedirect=true)
+- [Arm on GitHub](https://github.com/ArmmyC)
 
 ## Overview
 
@@ -74,9 +90,9 @@ For a website problem, use the [website problem form](https://github.com/ArmmyC/
 
 ## Project repositories
 
-This public repository is Rally's project and community home. The application implementation, reviewed dataset, and operational workflows are maintained separately in a private source repository.
+This public repository is Rally's project and community home. The application implementation, reviewed dataset, and operational workflows are maintained separately in the [Rally-Source repository](https://github.com/ArmmyC/Rally-Source).
 
-Use this repository for project context, public feedback, and documentation updates. The private source repository is used for application implementation, data validation, and deployment changes.
+Use this repository for project context, public feedback, and documentation updates. The separate source repository is used for application implementation, data validation, and deployment changes.
 
 ## Resources
 
